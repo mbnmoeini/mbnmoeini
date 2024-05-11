@@ -6,15 +6,18 @@
 - 📫 How to reach me:
   - Email: mbn.moeini@gmail.com
   - LinkedIn: [Mobina-Moeini](https://www.linkedin.com/in/mobina-moeini/)
-- Languages & Tools:
  
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/20ffdaa8-d3ad-4732-93ab-b0cca36972cd)
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/8053ed66-2c19-457c-b701-038361852f6d)
-  ![image](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/pytorch-icon.png)
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/9df62cff-9d78-4986-b53b-de199aa16679)
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/e4c66b16-d6b6-49fe-a169-5e3dba5cc2d5)
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/b78b669a-dd59-4dac-9268-dc2901b977a0)
-  ![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/28d2dc46-9ac2-43dc-af39-ba0ecc6f5609)
+![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/42839e66-3122-4df5-97c0-9ca75f0b484f)
+<img src="https://github.com/mbnmoeini/mbnmoeini/assets/59204475/a7f68274-3dec-4481-a45e-3017f4e584a8" width="48">
+<img src="https://github.com/mbnmoeini/mbnmoeini/assets/59204475/3f023e23-7a21-407c-8858-10283ab532f9" width="48">
+<img src="https://github.com/mbnmoeini/mbnmoeini/assets/59204475/326c2de7-542e-4750-a54c-749285b65127" width="48">
+![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/9df62cff-9d78-4986-b53b-de199aa16679)
+![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/497478eb-b3b1-46f1-8151-2795f29d1a35)
+![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/0722777d-b349-447a-ae75-ba441a90cdb4)
+![image](https://github.com/mbnmoeini/mbnmoeini/assets/59204475/abd5b3d0-ea4f-44c8-b203-d74402f374d4)
+
+
+
 
 
 
